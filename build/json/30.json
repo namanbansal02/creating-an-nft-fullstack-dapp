@@ -1,0 +1,47 @@
+{
+  "dna": "c8959150aab1dbe21c76ff7cfd68e315e1fe2f1d",
+  "name": "#30",
+  "description": "Naman's PolyAliens NFT collection.",
+  "image": "ipfs://QmeBQoWyHwwGy6hJLdTQQn2tavTLTHAwXbswmoAco2thed/30.png",
+  "edition": 30,
+  "date": 1685082561988,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "pink_bg"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "purple"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "green_eyes"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "attitude_smile"
+    },
+    {
+      "trait_type": "Shirt",
+      "value": "yellow_shirt"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "red_scarf"
+    },
+    {
+      "trait_type": "Weed",
+      "value": "weed"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "3d_glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "orange_bandana"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
